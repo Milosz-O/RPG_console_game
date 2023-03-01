@@ -1,0 +1,6 @@
+﻿  Źródło.cpp
+C:\Users\Miłosz\source\repos\Gra_Cała\Gra_Cała\Źródło.cpp(1736,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Miłosz\source\repos\Gra_Cała\Gra_Cała\Źródło.cpp(2326,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Miłosz\source\repos\Gra_Cała\Gra_Cała\Źródło.cpp(2434,6): warning C4551: wywołaniu funkcji brakuje listy argumentów
+C:\Users\Miłosz\source\repos\Gra_Cała\Gra_Cała\Źródło.cpp(2440,7): warning C4551: wywołaniu funkcji brakuje listy argumentów
+  Gra_Cała.vcxproj -> C:\Users\Miłosz\source\repos\Gra_Cała\Debug\Gra_Cała.exe
